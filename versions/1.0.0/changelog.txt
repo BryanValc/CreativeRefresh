@@ -1,0 +1,3 @@
+Initial version of the modpack.
+
+Containing all the most used building mods, and all the professional tools commonly available only in servers!
